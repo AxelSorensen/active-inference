@@ -2,6 +2,8 @@
 
 An interactive p5.js sketch that plots two Gaussian distributions and their variational free energy as you drag sliders.
 
+![Variational Free Energy Visualizer screenshot](docs/screenshot.png)
+
 ## Features
 
 - 🎛️ **Live sliders** — adjust the mean and standard deviation of an approximate posterior `Q(x)` and a likelihood `P(y|x)`
