@@ -35,3 +35,5 @@ npx serve .
 ## Status
 
 🚧 Small teaching/demo sketch — single-file, no tests, no dependency management. Works as-is but isn't set up as a project with a build pipeline.
+
+✅ Verified working as of 2026-09-03 — no install step needed; served `index.html` via a static HTTP server and confirmed it loads (200 OK).
